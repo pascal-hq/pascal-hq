@@ -1,14 +1,13 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Engineer;Data+Enthusiast;Building+Scalable+Solutions;Always+Learning)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;Backend+Engineer;Frontend+Developer;Data+Enthusiast;Building+Scalable+Solutions;Always+Learning)](https://git.io/typing-svg)
 
 <h1 align="center">Pascal Muthama</h1>
 
 <p align="center">
-Software Developer • Backend Engineer • Data Enthusiast
+Full-Stack Software Developer • Backend Engineer • Data Enthusiast
 </p>
 
 <p align="center">
-I enjoy building scalable software, REST APIs, automation tools and data-driven applications.
-My interests span backend engineering, cloud technologies, networking and artificial intelligence.
+I build modern, scalable, and user-focused web applications using Python and JavaScript. I enjoy turning ideas into reliable software, designing intuitive user experiences, and solving real-world problems through technology.
 </p>
 
 <p align="center">
@@ -35,23 +34,21 @@ My interests span backend engineering, cloud technologies, networking and artifi
 
 ## Certifications
 
-<p align="left">
-
+<p align="center">
 <a href="https://www.credly.com/badges/896befc4-3d53-44ce-aff8-d0ea79f478be/public_url">
-<img src="https://img.shields.io/badge/ALX-Artificial%20Intelligence%20Career%20Essentials-orange?style=for-the-badge&logo=credly&logoColor=white"/>
+<img src="./azure-responsible-ai-workshop-completion.png" height="180" alt="Microsoft Azure Responsible AI Workshop Completion"/>
 </a>
-
 </p>
 
 ---
 
 ## About
 
-- Final Year BSc Software Development Student
-- Backend developer focused on Python and modern web technologies
-- Passionate about scalable systems, automation and APIs
-- Currently expanding my skills in Data Science, AI and Cloud Computing
-- Open to Software Engineering opportunities and collaborations
+- Full-Stack Software Developer with a passion for building modern web applications.
+- Experienced in designing responsive frontend interfaces and scalable backend systems.
+- Strong interest in Artificial Intelligence, Data Science, Cloud Computing and System Design.
+- Always learning new technologies and building practical solutions.
+- Open to Software Engineering, Full-Stack and Backend opportunities.
 
 ---
 
@@ -60,86 +57,76 @@ My interests span backend engineering, cloud technologies, networking and artifi
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,php,html,css,bash"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,php,html,css,bash" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
 </p>
 
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,azure,vercel,netlify" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,opencv,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,opencv,tensorflow" />
 </p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|----------|-------------|-------|
-| OptiPesa | Financial Management System | Django, DRF, PostgreSQL |
-| Industrial Waste Management System | QR-based truck tracking & validation | Django, PostgreSQL |
-| Cafe Management API | RESTful Backend | FastAPI |
-| Expense Tracker API | Personal finance API | FastAPI |
-| Portfolio Website | Modern responsive portfolio | Vite, JavaScript |
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **OptiPesa** | Personal financial management system with analytics, budgeting and expense tracking. | Django, DRF, PostgreSQL |
+| **Industrial Waste Management System** | QR-based truck validation and trip management system for EPZA. | Django, PostgreSQL |
+| **Portfolio Website** | Personal portfolio showcasing projects, photography and software development. | React, Vite |
+| **Cafe Management API** | RESTful backend for managing café operations. | FastAPI |
+| **Expense Tracker API** | Personal finance REST API with authentication. | FastAPI |
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pascal-hq&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-hq&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pascal-hq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascal-hq&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pascal-hq&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pascal-hq&theme=github-dark"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pascal-hq&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://streak-stats.demolab.com?user=pascal-hq&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## Current Focus
 
+- Full-Stack Web Development
 - Backend Engineering
-- System Design
-- REST APIs
+- Frontend Engineering
+- REST API Development
 - Artificial Intelligence
 - Data Science
 - Cloud Computing
+- System Design
 - Open Source
 
 ---
